@@ -3,7 +3,9 @@
 int main(){
 
 printf("Hello World !!");
-git("Kacper Bart�omiejczak");
+prinrf("Micha³ Baranowski");
+git("Kacper Bart³omiejczak");
+
 
 return(0);
 
